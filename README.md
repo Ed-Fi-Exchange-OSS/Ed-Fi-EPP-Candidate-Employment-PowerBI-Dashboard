@@ -1,10 +1,17 @@
-# {Insert Repository Name Here}
+# EPP Candidate Employment PowerBI Starter Dashboard
 
-{Insert project information here}
+This project was a version 1 proof of concept to have Ed-Fi ODS data visualized
+for Educator Preparation Programs designed by a group of Texas EPPs. An existing
+Ed-Fi ODS connection is required to be able to visualize data in a similar way.
+Rather than a finalized "production" dashboard that's ready to be used for decision
+making,  this dashboard should instead be properly QA'd with data validation before
+use. Our template could be used as a stepping stone for another EPP looking to
+visualize similar data in PowerBI, but keep in mind this version is more a prototype
+than a polished product.
 
 ## Legal Information
 
-Copyright (c) 2021 Ed-Fi Alliance, LLC and contributors.
+Copyright (c) 2022 Ed-Fi Alliance, LLC and contributors.
 
 Licensed under the [Apache License, Version 2.0](LICENSE) (the "License").
 
